@@ -1,0 +1,94 @@
+\begin{thebibliography}{10}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{martins2013review}
+Martins, J.~R. and Hwang, J.~T., \enquote{Review and unification of methods for
+  computing derivatives of multidisciplinary computational models,} {\em AIAA
+  Journal\/}, Vol.~51, No.~11, 2013, pp.~2582--2599.
+
+\bibitem{cross2014local}
+Cross, D.~M. and Canfield, R.~A., \enquote{Local continuum shape sensitivity
+  with spatial gradient reconstruction,} {\em Structural and Multidisciplinary
+  Optimization\/}, Vol.~50, No.~6, 2014, pp.~975--1000.
+
+\bibitem{Arora}
+Arora, J. and Haug, E., \enquote{Methods of Design Sensitivity Analysis in
+  Structural Optimization,} {\em AIAA Journal\/}, Vol.~17, No.~9, 1979,
+  pp.~970--974.
+
+\bibitem{Dems-Mroz}
+Dems, K. and Mroz, Z., \enquote{Variational approach to first- and second-order
+  sensitivity analysis of elastic structures,} {\em International Journal for
+  Numerical Methods in Engineering\/}, Vol.~21, No.~4, 1985, pp.~637--661.
+
+\bibitem{liu2013equivalence}
+Liu, S. and Canfield, R.~A., \enquote{Equivalence of continuum and discrete
+  analytic sensitivity methods for nonlinear differential equations,} {\em
+  Structural and Multidisciplinary Optimization\/}, Vol.~48, No.~6, 2013,
+  pp.~1173--1188.
+
+\bibitem{liu2013boundary}
+Liu, S. and Canfield, R.~A., \enquote{Boundary velocity method for continuum
+  shape sensitivity of nonlinear fluid–structure interaction problems,} {\em
+  Journal of Fluids and Structures\/}, Vol.~40, No.~0, 2013, pp.~284 -- 301.
+
+\bibitem{mittal2005immersed}
+Mittal, R. and Iaccarino, G., \enquote{Immersed boundary methods,} {\em Annual
+  Review of Fluid Mechanics\/}, Vol.~37, 2005, pp.~239--261.
+
+\bibitem{choi2007immersed}
+Choi, J.-I., Oberoi, R.~C., Edwards, J.~R., and Rosati, J.~A., \enquote{An
+  immersed boundary method for complex incompressible flows,} {\em Journal of
+  Computational Physics\/}, Vol.~224, No.~2, 2007, pp.~757--784.
+
+\bibitem{fadlun2000combined}
+Fadlun, E., Verzicco, R., Orlandi, P., and Mohd-Yusof, J., \enquote{Combined
+  immersed-boundary finite-difference methods for three-dimensional complex
+  flow simulations,} {\em Journal of Computational Physics\/}, Vol.~161, No.~1,
+  2000, pp.~35--60.
+
+\bibitem{koehler2015flows}
+Koehler, C., Beran, P., Vanella, M., and Balaras, E., \enquote{Flows produced
+  by the combined oscillatory rotation and translation of a circular cylinder
+  in a quiescent fluid,} {\em Journal of Fluid Mechanics\/}, Vol.~764, 2015,
+  pp.~148--170.
+
+\bibitem{vanella2010direct}
+Vanella, M., Rabenold, P., and Balaras, E., \enquote{A direct-forcing
+  embedded-boundary method with adaptive mesh refinement for fluid--structure
+  interaction problems,} {\em Journal of Computational Physics\/}, Vol.~229,
+  No.~18, 2010, pp.~6427--6449.
+
+\bibitem{kreissl2012levelset}
+Kreissl, S. and Maute, K., \enquote{Levelset based fluid topology optimization
+  using the extended finite element method,} {\em Structural and
+  Multidisciplinary Optimization\/}, Vol.~46, No.~3, 2012, pp.~311--326.
+
+\bibitem{goldstein1993modeling}
+Goldstein, D., Handler, R., and Sirovich, L., \enquote{Modeling a no-slip flow
+  boundary with an external force field,} {\em Journal of Computational
+  Physics\/}, Vol.~105, No.~2, 1993, pp.~354--366.
+
+\bibitem{shin2008assessment}
+Shin, S.~J., Huang, W.-X., and Sung, H.~J., \enquote{Assessment of regularized
+  delta functions and feedback forcing schemes for an immersed boundary
+  method,} {\em International Journal for Numerical Methods in Fluids\/},
+  Vol.~58, No.~3, 2008, pp.~263--286.
+
+\bibitem{gobal2014continuum}
+Gobal, K., Grandhi, R.~V., and Kolonay, R.~M., \enquote{Continuum Sensitivity
+  Analysis for Structural Shape Design Variables Using Finite-Volume Method,}
+  {\em AIAA Journal\/}, Vol.~53, No.~2, 2014, pp.~347--355.
+
+\bibitem{salunke2014airfoil}
+Salunke, N.~P., RA, J.~A., and Channiwala, S., \enquote{Airfoil
+  Parameterization Techniques: A Review,} {\em American Journal of Mechanical
+  Engineering\/}, Vol.~2, No.~4, 2014, pp.~99--102.
+
+\bibitem{vassberg2011systematic}
+Vassberg, J.~C., Harrison, N.~A., Roman, D.~L., and Jameson, A., \enquote{A
+  systematic study on the impact of dimensionality for a two-dimensional
+  aerodynamic optimization model problem,} {\em 29th AIAA Applied Aerodynamics
+  Conference, Honolulu, HI\/}, 2011.
+
+\end{thebibliography}
